@@ -1,0 +1,68 @@
+header {
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: blue;
+}
+
+main {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.navBar {
+  border-top: 1px solid black;
+  height: 30px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.hero {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.divider {
+  width: 1px;
+  height: 30px;
+  background-color: black;
+}
+
+.card {
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 500px;
+  width: 250px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+  justify-content: center;
+}
+
+.cards {
+  margin-top: 10px;
+  justify-content: space-between;
+  display: flex;
+}
+
+footer {
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  height: 340px;
+}
