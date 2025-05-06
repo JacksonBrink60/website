@@ -66,3 +66,10 @@ img {
   width: 200px;
   height: 340px;
 }
+
+input {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-top: 0;
+  border-bottom: 0;
+}
